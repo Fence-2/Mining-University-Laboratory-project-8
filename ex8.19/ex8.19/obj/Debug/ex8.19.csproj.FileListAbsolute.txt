@@ -1,0 +1,36 @@
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.exe.config
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.pdb
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8._19.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8._19.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.pdb
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.exe.config
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.exe
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.pdb
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.exe
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.pdb
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.csprojResolveAssemblyReference.cache
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8._19.Form1.resources
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8._19.Properties.Resources.resources
+E:\ИАС-18-2\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.csproj.GenerateResource.Cache
+E:\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.exe.config
+E:\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.exe
+E:\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.pdb
+E:\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.exe
+E:\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.pdb
+E:\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.csprojResolveAssemblyReference.cache
+E:\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8._19.Form1.resources
+E:\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8._19.Properties.Resources.resources
+E:\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.exe.config
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.exe
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.pdb
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.exe
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\bin\Debug\ex8.19.pdb
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8._19.Form1.resources
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8._19.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.csprojAssemblyReference.cache
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.19\ex8.19\obj\Debug\ex8.19.csproj.CoreCompileInputs.cache

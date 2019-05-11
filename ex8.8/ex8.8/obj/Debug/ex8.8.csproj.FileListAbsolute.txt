@@ -1,0 +1,32 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.8\bin\Debug\ex8.8.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.8\bin\Debug\ex8.8.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.8\bin\Debug\ex8.8.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.8\obj\Debug\ex8._8.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.8\obj\Debug\ex8._8.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.8\obj\Debug\ex8.8.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.8\obj\Debug\ex8.8.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.8\obj\Debug\ex8.8.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.8\ex8.8\bin\Debug\ex8.8.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.8\ex8.8\obj\Debug\ex8.8.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.8\ex8.8\obj\Debug\ex8.8.pdb
+E:\Лаб. работа №8\ex8.8\ex8.8\bin\Debug\ex8.8.exe.config
+E:\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.exe
+E:\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.pdb
+E:\Лаб. работа №8\ex8.8\ex8.8\bin\Debug\ex8.8.exe
+E:\Лаб. работа №8\ex8.8\ex8.8\bin\Debug\ex8.8.pdb
+E:\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.csprojResolveAssemblyReference.cache
+E:\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8._8.Form1.resources
+E:\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8._8.Properties.Resources.resources
+E:\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.8\ex8.8\bin\Debug\ex8.8.exe.config
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.pdb
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\bin\Debug\ex8.8.exe.config
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.exe
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.pdb
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\bin\Debug\ex8.8.exe
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\bin\Debug\ex8.8.pdb
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8._8.Form1.resources
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8._8.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\C#\Лаб. работа №8\ex8.8\ex8.8\obj\Debug\ex8.8.csproj.GenerateResource.Cache

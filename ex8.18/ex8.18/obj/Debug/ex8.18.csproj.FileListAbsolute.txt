@@ -1,0 +1,18 @@
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\bin\Debug\ex8.18.exe.config
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\bin\Debug\ex8.18.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\bin\Debug\ex8.18.pdb
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8._18.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8._18.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8.18.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8.18.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8.18.pdb
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8.18.csprojResolveAssemblyReference.cache
+E:\Лаб. работа №8\ex8.18\ex8.18\bin\Debug\ex8.18.exe.config
+E:\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8.18.exe
+E:\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8.18.pdb
+E:\Лаб. работа №8\ex8.18\ex8.18\bin\Debug\ex8.18.exe
+E:\Лаб. работа №8\ex8.18\ex8.18\bin\Debug\ex8.18.pdb
+E:\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8.18.csprojResolveAssemblyReference.cache
+E:\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8._18.Form1.resources
+E:\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8._18.Properties.Resources.resources
+E:\Лаб. работа №8\ex8.18\ex8.18\obj\Debug\ex8.18.csproj.GenerateResource.Cache

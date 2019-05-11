@@ -1,0 +1,27 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\bin\Debug\ex8.1.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\bin\Debug\ex8.1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\bin\Debug\ex8.1.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\obj\Debug\ex8.1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\obj\Debug\ex8._1.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\obj\Debug\ex8._1.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\obj\Debug\ex8.1.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\obj\Debug\ex8.1.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\ex8.1\obj\Debug\ex8.1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\bin\Debug\ex8.1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\obj\Debug\ex8.1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\obj\Debug\ex8.1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\bin\Debug\ex8.1.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\bin\Debug\ex8.1.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\obj\Debug\ex8.1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\obj\Debug\ex8._1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\obj\Debug\ex8._1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\ex8.1\ex8.1\obj\Debug\ex8.1.csproj.GenerateResource.Cache
+E:\Лаб. работа №8\ex8.1\ex8.1\bin\Debug\ex8.1.exe.config
+E:\Лаб. работа №8\ex8.1\ex8.1\obj\Debug\ex8.1.exe
+E:\Лаб. работа №8\ex8.1\ex8.1\obj\Debug\ex8.1.pdb
+E:\Лаб. работа №8\ex8.1\ex8.1\bin\Debug\ex8.1.exe
+E:\Лаб. работа №8\ex8.1\ex8.1\bin\Debug\ex8.1.pdb
+E:\Лаб. работа №8\ex8.1\ex8.1\obj\Debug\ex8.1.csprojResolveAssemblyReference.cache
+E:\Лаб. работа №8\ex8.1\ex8.1\obj\Debug\ex8._1.Form1.resources
+E:\Лаб. работа №8\ex8.1\ex8.1\obj\Debug\ex8._1.Properties.Resources.resources
+E:\Лаб. работа №8\ex8.1\ex8.1\obj\Debug\ex8.1.csproj.GenerateResource.Cache

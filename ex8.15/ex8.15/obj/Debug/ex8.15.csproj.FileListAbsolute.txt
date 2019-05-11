@@ -1,0 +1,16 @@
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.15\ex8.15\bin\Debug\ex8.15.exe.config
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.15\ex8.15\bin\Debug\ex8.15.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.15\ex8.15\bin\Debug\ex8.15.pdb
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8._15.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8._15.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8.15.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8.15.exe
+C:\Users\Fence_2\Desktop\Вуз 1 курс\[Программирование]\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8.15.pdb
+E:\Лаб. работа №8\ex8.15\ex8.15\bin\Debug\ex8.15.exe.config
+E:\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8.15.exe
+E:\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8.15.pdb
+E:\Лаб. работа №8\ex8.15\ex8.15\bin\Debug\ex8.15.exe
+E:\Лаб. работа №8\ex8.15\ex8.15\bin\Debug\ex8.15.pdb
+E:\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8._15.Form1.resources
+E:\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8._15.Properties.Resources.resources
+E:\Лаб. работа №8\ex8.15\ex8.15\obj\Debug\ex8.15.csproj.GenerateResource.Cache
